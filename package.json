@@ -1,0 +1,15 @@
+{
+  "name": "backend_javascript",
+  "version": "1.0.0",
+  "description": "A video series on Backend with Javascript from Chai aur code by Hitesh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "javascript"
+  ],
+  "author": "Rajat Jaiswal",
+  "license": "ISC"
+}
